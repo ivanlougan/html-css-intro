@@ -1,5 +1,11 @@
 * {
     padding: 10px;
     margin: 10px;
+    background-color: rgb(255, 113, 231);
     align-items: center;
+    border: 3px dotted darkmagenta;
+}
+
+a {
+    font-size:larger;
 }

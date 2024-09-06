@@ -6,14 +6,25 @@
 }
 
 
-h2 {
+h3, h2 {
     text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(58, 120, 58);
 }
 
 img{
     max-width: 60%;
     max-height: 50%;
+    border: 8px solid black;
     }
+    img:hover{
+        max-width: 60%;
+        max-height: 50%;
+        border: 8px solid black;
+        /*make pic round*/
+        border-radius: 50%;
+
+        }
 
 a {
     padding: 2px;
@@ -29,4 +40,16 @@ a {
 .next {
     align-items: center;
     border: 2px solid black;
+}
+
+ol {
+    color: blueviolet;
+}
+
+ul {
+    color: rgb(206, 0, 93);
+}
+
+a {
+    font-size:larger;
 }
