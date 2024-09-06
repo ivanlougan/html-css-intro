@@ -37,6 +37,13 @@ a {
     align-items: center;
 }
 
+#feetImg {
+    padding-left: 50px;
+    padding-right: 80px;
+    padding-top: 35px;
+    padding-bottom: 90px;
+}
+
 .next {
     align-items: center;
     border: 2px solid black;
