@@ -3,7 +3,7 @@
 
     margin: 10px;
     border: 1px solid rgb(117, 9, 9);
-    background-color: deepskyblue;
+    background-color: rgb(177, 235, 255);
 }
 
 
@@ -15,3 +15,8 @@ img{
     max-width: 60%;
     max-height: 50%;
     }
+
+.images {
+    padding-left: 60px;
+    align-items: center;
+}
