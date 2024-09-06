@@ -1,6 +1,5 @@
 * {
     padding: 10px;
-
     margin: 10px;
     border: 1px solid rgb(117, 9, 9);
     background-color: rgb(177, 235, 255);
@@ -16,7 +15,18 @@ img{
     max-height: 50%;
     }
 
+a {
+    padding: 2px;
+    margin: 5px;
+    border: none;
+}
+
 .images {
     padding-left: 60px;
     align-items: center;
+}
+
+.next {
+    align-items: center;
+    border: 2px solid black;
 }
